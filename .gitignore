@@ -1,0 +1,17 @@
+.vscode/
+*.code-workspace
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+install/
+build/
+log/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.db
+*.sqlite
+*.log
