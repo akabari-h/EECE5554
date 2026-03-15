@@ -4,4 +4,4 @@ log/
 __pycache__/
 *.pyc
 .DS_Store
-
+data/5_hour_imu_data/
