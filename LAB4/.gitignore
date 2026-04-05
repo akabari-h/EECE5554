@@ -1,0 +1,15 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated plots (reproducible from scripts)
+analysis/plots/
+
+# Large Piazza bag files if any
+data/5_hour_imu_data/
